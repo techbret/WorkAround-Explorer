@@ -20,6 +20,7 @@ Much of the user interface has already been designed by front-end developers, ho
 
 ## Pro Course
 
-**Codecademy Full-Stack Engineer**
+*Codecademy Full-Stack Engineer*
+
 JavaScript Syntax, Part III: ES6 Modules - using ES6 modules, a way to define and utilize reusable logic in programs.
 
