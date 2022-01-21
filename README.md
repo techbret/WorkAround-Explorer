@@ -18,6 +18,8 @@ WorkAround now wants to release a new web application called WorkAround Explorer
 After the user selects a role from the first column and a company from the second, the relevant data is shown in the third column
 Much of the user interface has already been designed by front-end developers, however, the core data and functionality are either missing or need to be connected together using modules. Your task is to help your team members out by using your import and export expertise!
 
+Check out the [Completed Project]https://techbret.github.io/WorkAround-Explorer/
+
 ## Pro Course
 
 *Codecademy Full-Stack Engineer*
